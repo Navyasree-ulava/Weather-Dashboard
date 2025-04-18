@@ -1,0 +1,89 @@
+2025-04-18 13:32:27.291340: Hyderabad | 37.36°C | broken clouds | Humidity: 23%
+2025-04-18 13:32:27.388381: Nuzvid | 37.37°C | clear sky | Humidity: 36%
+2025-04-18 13:32:27.446965: Delhi | 40.46°C | clear sky | Humidity: 16%
+2025-04-18 13:32:27.533159: Vijayawada | 38.13°C | scattered clouds | Humidity: 36%
+2025-04-18 13:32:27.610884: Antarctica | -44.97°C | overcast clouds | Humidity: 97%
+2025-04-18 13:32:27.689778: New York | 10.32°C | clear sky | Humidity: 46%
+2025-04-18 13:32:27.751659: London | 11.58°C | overcast clouds | Humidity: 72%
+2025-04-18 13:32:27.810345: Tokyo | 21.25°C | overcast clouds | Humidity: 58%
+2025-04-18 14:00:09.300624: Hyderabad | 37.36°C | broken clouds | Humidity: 23%
+2025-04-18 14:00:09.417184: Nuzvid | 37.11°C | few clouds | Humidity: 34%
+2025-04-18 14:00:09.481896: Delhi | 40.46°C | clear sky | Humidity: 16%
+2025-04-18 14:00:09.589886: Vijayawada | 38.13°C | scattered clouds | Humidity: 36%
+2025-04-18 14:00:09.697384: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:00:09.750396: New York | 10.27°C | clear sky | Humidity: 51%
+2025-04-18 14:00:09.865326: London | 12°C | overcast clouds | Humidity: 72%
+2025-04-18 14:00:10.243464: Tokyo | 21.25°C | overcast clouds | Humidity: 58%
+2025-04-18 14:04:51.338920: Hyderabad | 37.36°C | broken clouds | Humidity: 23%
+2025-04-18 14:04:51.412004: Nuzvid | 37.11°C | few clouds | Humidity: 34%
+2025-04-18 14:04:51.467619: Delhi | 40.46°C | clear sky | Humidity: 16%
+2025-04-18 14:04:51.526397: Vijayawada | 38.13°C | scattered clouds | Humidity: 36%
+2025-04-18 14:04:51.589702: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:04:51.685637: New York | 10.26°C | clear sky | Humidity: 51%
+2025-04-18 14:04:51.782497: London | 12°C | overcast clouds | Humidity: 72%
+2025-04-18 14:04:51.885796: Tokyo | 21.54°C | overcast clouds | Humidity: 58%
+2025-04-18 14:22:59.822910: Hyderabad | 37.23°C | few clouds | Humidity: 34%
+2025-04-18 14:22:59.973690: Nuzvid | 35.47°C | few clouds | Humidity: 34%
+2025-04-18 14:23:00.103069: Delhi | 38.05°C | haze | Humidity: 27%
+2025-04-18 14:23:00.244645: Vijayawada | 35.97°C | scattered clouds | Humidity: 46%
+2025-04-18 14:23:00.387597: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:23:00.524482: New York | 8.08°C | clear sky | Humidity: 56%
+2025-04-18 14:23:00.649929: London | 14.53°C | overcast clouds | Humidity: 65%
+2025-04-18 14:23:00.758316: Tokyo | 21.59°C | broken clouds | Humidity: 63%
+2025-04-18 14:33:05.638974: Hyderabad | 36.58°C | broken clouds | Humidity: 25%
+2025-04-18 14:33:05.706265: Nuzvid | 37.11°C | few clouds | Humidity: 34%
+2025-04-18 14:33:05.770571: Delhi | 40.89°C | clear sky | Humidity: 15%
+2025-04-18 14:33:05.894148: Vijayawada | 37.12°C | scattered clouds | Humidity: 36%
+2025-04-18 14:33:05.963228: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:33:06.033441: New York | 9.92°C | clear sky | Humidity: 52%
+2025-04-18 14:33:06.156291: London | 13.28°C | overcast clouds | Humidity: 66%
+2025-04-18 14:33:06.261834: Tokyo | 21.54°C | overcast clouds | Humidity: 58%
+2025-04-18 14:43:11.050255: Hyderabad | 36.58°C | broken clouds | Humidity: 25%
+2025-04-18 14:43:11.120349: Nuzvid | 37.11°C | few clouds | Humidity: 34%
+2025-04-18 14:43:11.189014: Delhi | 40.89°C | clear sky | Humidity: 15%
+2025-04-18 14:43:11.252039: Vijayawada | 37.12°C | scattered clouds | Humidity: 36%
+2025-04-18 14:43:11.317854: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:43:11.379530: New York | 9.89°C | clear sky | Humidity: 52%
+2025-04-18 14:43:11.485234: London | 13.19°C | overcast clouds | Humidity: 66%
+2025-04-18 14:43:11.546931: Tokyo | 21.54°C | overcast clouds | Humidity: 58%
+2025-04-18 14:53:16.089607: Hyderabad | 37.23°C | few clouds | Humidity: 30%
+2025-04-18 14:53:16.250565: Nuzvid | 37.47°C | few clouds | Humidity: 34%
+2025-04-18 14:53:16.386339: Delhi | 39.05°C | haze | Humidity: 25%
+2025-04-18 14:53:16.537690: Vijayawada | 37.97°C | scattered clouds | Humidity: 44%
+2025-04-18 14:53:16.682896: Antarctica | -46.26°C | overcast clouds | Humidity: 97%
+2025-04-18 14:53:16.829594: New York | 7.88°C | clear sky | Humidity: 57%
+2025-04-18 14:53:16.971165: London | 14.75°C | overcast clouds | Humidity: 62%
+2025-04-18 14:53:17.111998: Tokyo | 21.38°C | broken clouds | Humidity: 63%
+2025-04-18 15:03:22.059907: Hyderabad | 37.23°C | few clouds | Humidity: 30%
+2025-04-18 15:03:22.189213: Nuzvid | 37.47°C | few clouds | Humidity: 41%
+2025-04-18 15:03:22.324707: Delhi | 39.05°C | haze | Humidity: 25%
+2025-04-18 15:03:22.462285: Vijayawada | 37.97°C | scattered clouds | Humidity: 44%
+2025-04-18 15:03:22.606511: Antarctica | -48.16°C | overcast clouds | Humidity: 98%
+2025-04-18 15:03:22.725932: New York | 7.9°C | clear sky | Humidity: 58%
+2025-04-18 15:03:22.868421: London | 15.11°C | overcast clouds | Humidity: 60%
+2025-04-18 15:03:22.997465: Tokyo | 21.28°C | clear sky | Humidity: 63%
+2025-04-18 15:13:28.163091: Hyderabad | 37.23°C | few clouds | Humidity: 30%
+2025-04-18 15:13:28.288396: Nuzvid | 37.47°C | few clouds | Humidity: 41%
+2025-04-18 15:13:28.429218: Delhi | 39.05°C | haze | Humidity: 25%
+2025-04-18 15:13:28.571468: Vijayawada | 37.97°C | scattered clouds | Humidity: 44%
+2025-04-18 15:13:28.717084: Antarctica | -48.16°C | overcast clouds | Humidity: 98%
+2025-04-18 15:13:28.862957: New York | 7.7°C | clear sky | Humidity: 58%
+2025-04-18 15:13:28.986106: London | 15.16°C | overcast clouds | Humidity: 60%
+2025-04-18 15:13:29.109390: Tokyo | 21.25°C | clear sky | Humidity: 63%
+2025-04-18 15:27:55.217665: Hyderabad | 33.75°C | broken clouds | Humidity: 34%
+2025-04-18 15:27:55.333717: Nuzvid | 35.14°C | few clouds | Humidity: 41%
+2025-04-18 15:27:55.444987: Delhi | 41.22°C | clear sky | Humidity: 14%
+2025-04-18 15:27:55.552984: Vijayawada | 37.12°C | scattered clouds | Humidity: 35%
+2025-04-18 15:27:55.657112: Antarctica | -48.16°C | overcast clouds | Humidity: 98%
+2025-04-18 15:27:55.766832: New York | 9.57°C | clear sky | Humidity: 54%
+2025-04-18 15:27:55.828758: London | 14.27°C | overcast clouds | Humidity: 61%
+2025-04-18 15:27:55.890824: Tokyo | 20.68°C | overcast clouds | Humidity: 63%
+2025-04-18 15:59:00.254850: Hyderabad | 33.75°C | broken clouds | Humidity: 34%
+2025-04-18 15:59:00.323107: Nuzvid | 35.14°C | few clouds | Humidity: 41%
+2025-04-18 15:59:00.382586: Delhi | 41.22°C | clear sky | Humidity: 14%
+2025-04-18 15:59:00.489259: Vijayawada | 37.12°C | scattered clouds | Humidity: 35%
+2025-04-18 15:59:00.561216: Antarctica | -48.16°C | overcast clouds | Humidity: 98%
+2025-04-18 15:59:00.621735: New York | 9.54°C | clear sky | Humidity: 54%
+2025-04-18 15:59:00.678683: London | 14.52°C | overcast clouds | Humidity: 59%
+2025-04-18 15:59:00.782858: Tokyo | 20.68°C | overcast clouds | Humidity: 63%
+2025-04-18 15:59:00.886387: Nellore | 35.97°C | few clouds | Humidity: 45%
